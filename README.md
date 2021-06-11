@@ -12,7 +12,7 @@ Script generator akan diupdate agar lebih kreatif hasilnya.
 
 
 Future work:
-[x] Simple mock generator Lens-Source Simmulated using Lenstronomy
-[] Download HSC pdr2 data using [Unagi](https://github.com/dr-guangtou/unagi)
-[] Catalogue2Lenstronomy parameter converter
-[] HSC Data Mock Generator
+- [x] Simple mock generator Lens-Source Simmulated using Lenstronomy
+- [] Download HSC pdr2 data using [Unagi](https://github.com/dr-guangtou/unagi)
+- [] Catalogue2Lenstronomy parameter converter
+- [] HSC Data Mock Generator
