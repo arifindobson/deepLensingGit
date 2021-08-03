@@ -1,0 +1,4 @@
+kwargs_lens[{'theta_E': 0.7, 'gamma': 11.76, 'center_x': 0, 'center_y': 0, 'e1': 0.007, 'e2': -0.03}, {'gamma1': 0.08, 'gamma2': 0.06}]
+ kwargs_sersic_ellipse{'amp': 100.0, 'R_sersic': 0.8410716180140605, 'n_sersic': 7, 'center_x': 0.7439146390220256, 'center_y': 0.31206898530159877, 'e1': 0.2298937500326662, 'e2': 0.7668696197312899}
+ data_specs{'background_rms': 0.5, 'exp_time': 100, 'numPix': 110, 'deltaPix': 0.168, 'fwhm': 0.2}
+ {magnitude:[0.74311963]}
